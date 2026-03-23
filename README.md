@@ -42,8 +42,7 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/HongHyunsoo)
 
 <!-- Image -->
-![image] (https://github.com/shi)
-
+![image](https://github.com/shingugitvr000/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)
 <!-- Table -->
 
 |Header|Description|Other|
